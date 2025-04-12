@@ -30,6 +30,8 @@
 <details>
 <summary>Ответ</summary>
 
+![image](img/01.png)
+
 </details>
 
 ### Задание 2
